@@ -29,7 +29,7 @@
                <archive>
                   <manifest>
                      <!-- give full qualified name of your main class-->
-                     <mainClass>com.ravi.cal.RaviCalculator.Calculator</mainClass>
+                     <mainClass>com.javahungry.Demo</mainClass>
                   </manifest>
                </archive>
             </configuration>
